@@ -14,3 +14,4 @@ MD5 (imageio_ffmpeg-0.3.0-py3-none-any.whl) = e97d222f869271cf91366a77392c511a
 MD5 (validators-0.14.3-py3-none-any.whl) = f7406e6fa6d8b15b35b8153b97a0439e
 MD5 (matplotlib-3.2.1-cp37-cp37m-dragonfly_5_6_RELEASE_x86_64.whl) = d533ddb1a61446085320778c07e003b5
 MD5 (pandas-1.0.3-cp37-cp37m-dragonfly_5_6_RELEASE_x86_64.whl) = fdaea86919887bb6bdceb708f8ea4393
+MD5 (scikit_learn-0.22.2.post1-cp37-cp37m-dragonfly_5_6_RELEASE_x86_64.whl) = af7c0faa3d39d938344c2ee00466fdc0
